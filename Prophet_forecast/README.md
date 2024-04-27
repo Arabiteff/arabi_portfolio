@@ -1,5 +1,5 @@
 # Prophet prévisions pour les préparation des collis(en cours de dev)
-![](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1455/https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_512/https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/https://www.relataly.com/wp-content/uploads/2023/03/stock-market-forecasting-python-relataly-midjourney-3-min.png)
+![](https://i.ibb.co/9hdDxwv/Capture-d-cran-2024-04-27-114847.png)
 ## la stratégie du modèle:
 - On considère ici que chaque entrepôt est une série agrégée au niveau enseigne par P,entrepôt.
 - Chaque entrepôt prend un model différent le modèle s’appelle Prophet (auto),

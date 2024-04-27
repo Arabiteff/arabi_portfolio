@@ -10,7 +10,7 @@ Bienvenue dans mon dépôt de projets de Data Science ! Ce dépôt contient une 
 - je maitrise l'anglais et le français
 
 ## Projet Professionnel
-1. [Développement d’un framwork des prévisions](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction):
+1. [Développement d’un framwork des prévisions](https://github.com/Arabiteff/arabi_portfolio/tree/main/Prophet_forecast):
 - **Description:** Développement d'un modèle de série temporelle pour prédire la préparation des colis dans tous les entrepôts de carrefour en France.
 - **Technologie:** bigQuery, Python (Prophet), google cloud functions.
 - **résultat:** résultat de l'un des entrepôts avec une accuaracy moyenne de **95%**
